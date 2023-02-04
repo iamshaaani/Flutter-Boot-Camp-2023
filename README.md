@@ -17,3 +17,4 @@
 - [UI Introduction](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Login UI](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Building Login UI](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Splash Screen](https://www.youtube.com/@Productmanagemententrepreneur)
