@@ -11,6 +11,7 @@
 - [How to Build APK file](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Project Structure](https://www.youtube.com/@Productmanagemententrepreneur)
 - [How Flutter Project Structure Work](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Hot Reload & Hot Restart](https://www.youtube.com/@Productmanagemententrepreneur)
 - [What is MaterialApp and MaterialApp Design](https://www.youtube.com/@Productmanagemententrepreneur)
 - [What is Flutter Widgets?](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Top Widgets in Flutter](https://www.youtube.com/@Productmanagemententrepreneur)
