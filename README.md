@@ -19,6 +19,6 @@
 - [Login UI](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Building Login UI](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Splash Screen](https://www.youtube.com/@Productmanagemententrepreneur)
-- [Building Splash Screen](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Building Splash Screen](https://www.youtube.com/@Productmanagemententrepreneur.splashscreen)
 - [Navigation](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Navigation from One Screen to Another  Screen](https://www.youtube.com/@Productmanagemententrepreneur)
