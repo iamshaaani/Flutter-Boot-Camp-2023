@@ -23,4 +23,4 @@
 - [Navigation](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Navigation from One Screen to Another Screen](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter 100 Days Challenge]
-- [Flutter Day 1 - Project Creation and Project Launch on Enamulator](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 1 - Splash Screen Development](https://www.youtube.com/@Productmanagemententrepreneur)
