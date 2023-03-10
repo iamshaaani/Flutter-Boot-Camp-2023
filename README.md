@@ -26,3 +26,4 @@
 - [Flutter Day 1 - Splash Screen Development](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 2 - On Click Animated Splash Screen](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 3 - Login Screen UI](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 4 - Animated Splash Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
