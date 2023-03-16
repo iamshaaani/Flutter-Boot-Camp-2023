@@ -28,3 +28,4 @@
 - [Flutter Day 3 - Login Screen UI](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 4 - Animated Splash Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 5 - OnBoarding Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 6 - Welcome Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
