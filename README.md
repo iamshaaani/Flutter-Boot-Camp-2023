@@ -30,4 +30,4 @@
 - [Flutter Day 5 - OnBoarding Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 6 - Welcome Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 7 - Exception Handling ](https://www.youtube.com/@Productmanagemententrepreneur)
-- [Flutter Day 8 - Forgot Password Screen ](https://www.youtube.com/@Productmanagemententrepreneur
+- [Flutter Day 8 - Forgot Password Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
