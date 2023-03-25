@@ -31,4 +31,5 @@
 - [Flutter Day 6 - Welcome Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 7 - Exception Handling ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 8 - Forgot Password Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
-- [Flutter Day 9 - OTP Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 9 - Password Reset Option Bottom Widget ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 10 - OTP Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
