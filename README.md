@@ -34,3 +34,4 @@
 - [Flutter Day 9 - Password Reset Option Bottom Widget ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 10 - OTP Screen ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Flutter Day 11 - Firebase Setup ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Flutter Day 12 - Phone OPT ](https://www.youtube.com/@Productmanagemententrepreneur)
